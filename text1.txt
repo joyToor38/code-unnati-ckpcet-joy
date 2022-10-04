@@ -1,2 +1,4 @@
 Hello world
 Trying git 
+
+Making changes to see the updates on the commits
